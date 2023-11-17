@@ -1,0 +1,66 @@
+#head{
+    
+    font-size: medium;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2.5rem;
+    border: 10px;
+    border-radius: 20%;
+    margin: 0 auto; 
+    text-align: center;
+    letter-spacing: 5PX;
+
+}
+#head-container{
+    border-radius: 20%;
+    background: seagreen;
+    width: 50%; 
+    margin-top: 50px;
+    padding: 20px;
+    border: black solid 0px;
+    border-radius: 5%;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+#full-body{
+    background-image: url('https://images.pexels.com/photos/831243/pexels-photo-831243.jpeg?cs=srgb&dl=pexels-syed-hasan-mehdi-831243.jpg&fm=jpg');
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+#movie-container{
+    width: 80%; /* Set the width of your div */
+    margin-top: 100px;
+    margin-bottom: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 20px;
+    border-radius: 5%;
+
+
+}
+/* #left-sidebar{
+    width: 200px;
+    height: 100%;
+    float: left;
+    background-color: #f2f2f2;
+    border: black solid 0px;
+    border-radius: 5%;
+    background-color: rgba(255, 255, 255, 0.3);
+    padding: 0;
+    margin: 0;
+
+
+}
+#left-sidebar-navbar{
+    display: flex;
+    list-style-type: none;
+}
+#left-sidebar-navbar li {
+    padding: 2px;
+  }
+
+  .list-container ul + ul {
+    margin-left: 20px; /* Adjust this value as needed */
+  
